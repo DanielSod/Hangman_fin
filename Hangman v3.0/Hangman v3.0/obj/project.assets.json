@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj",
+      "projectUniqueName": "D:\\#Programmering\\Hangman_fin\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj",
       "projectName": "Hangman v3.0",
-      "projectPath": "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj",
+      "projectPath": "D:\\#Programmering\\Hangman_fin\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj",
       "packagesPath": "C:\\Users\\Slacker\\.nuget\\packages\\",
-      "outputPath": "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\obj\\",
+      "outputPath": "D:\\#Programmering\\Hangman_fin\\Hangman v3.0\\Hangman v3.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

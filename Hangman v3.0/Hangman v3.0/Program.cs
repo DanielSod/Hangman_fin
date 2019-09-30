@@ -53,10 +53,7 @@ namespace Hangman_v3._0
 
             }
 
-            for (int g = 0; g < Word_str.Length; g++)
-            {
-                Console.Write("I en sträng ser det ut såhär: {0}\n", Word_arr[g]);
-            }
+           
 
 
             Console.Write("How many fails do you allow: ");
@@ -89,7 +86,7 @@ namespace Hangman_v3._0
 
 
             Console.Clear();
-            Console.WriteLine("\n \n Nu är spelet igång");
+            Console.WriteLine("\n \n Let the game begin!");
 
             #region spelets gång
             while (fail > 0)
