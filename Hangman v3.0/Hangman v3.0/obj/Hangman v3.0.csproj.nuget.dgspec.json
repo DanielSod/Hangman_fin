@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj": {}
+  },
+  "projects": {
+    "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj",
+        "projectName": "Hangman v3.0",
+        "projectPath": "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\Hangman v3.0.csproj",
+        "packagesPath": "C:\\Users\\Slacker\\.nuget\\packages\\",
+        "outputPath": "D:\\#Programmering\\Hangman3\\Hangman v3.0\\Hangman v3.0\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Slacker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

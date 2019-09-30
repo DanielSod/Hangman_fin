@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Hangman_v3._0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cheated.cs" />
+    <Compile Remove="GuessingCL.cs" />
+    <Compile Remove="klasser.cs" />
+    <Compile Remove="theWordCL.cs" />
+  </ItemGroup>
+
+</Project>
